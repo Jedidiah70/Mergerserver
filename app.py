@@ -5,7 +5,7 @@ import os
 import tempfile
 import firebase_admin
 from firebase_admin import credentials, storage
-import moviepy.editor as mp
+import moviepy as mp
 import google.generativeai as genai
 from flask import Flask, request, send_file
 import logging
