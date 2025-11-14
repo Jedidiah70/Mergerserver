@@ -1,5 +1,5 @@
 Flask
 gunicorn
 firebase-admin
-google-genai
+google-generativeai
 moviepy
